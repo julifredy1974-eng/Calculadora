@@ -1,2 +1,14 @@
 # Calculadora
-Calculadora funcional, creada en pseint que tiene suma, resta, multiplicacion, division, modulacion, potencia, raiz y analiza algunos errores
+Este es un programa de calculadora hecho en pseudocódigo usando PSeInt.
+
+Operaciones:
+- Suma
+- Resta
+- Multiplicación
+- División
+- Potencia
+- Raíz
+
+También valida errores como:
+- División por cero
+- Raíz de número negativo
